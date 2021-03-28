@@ -23,7 +23,7 @@ backbone用了resnet18，140个epoch
 优先射击头部，其次身体躯干
 
 ## 效果演示
-![效果1](.assert/demo-1.gif)
+![效果1](.assert/shot-1.gif)
 
 
 
